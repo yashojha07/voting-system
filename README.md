@@ -27,9 +27,9 @@ VoteDetails.txt
     Realtime Vote details will collected here (voter ID + candedate name). And only admin can see this.
 
 ## SCREENSHOTS
-<img src="./screenshot/screenshot (23)" height="500">
+<img src="Screenshot(23).png" height="500">
 
-<img src="./screenshot/screenshot (24)" height="500">
+<img src="Screenshot(24).png" height="500">
 
 
 
